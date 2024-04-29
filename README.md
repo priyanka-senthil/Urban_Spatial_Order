@@ -1,4 +1,4 @@
-# Project Name: Urban Spatial Order Analysis
+# Urban Spatial Order Analysis
 
 ## Objective:
 The objective of this project is to implement clustering techniques on real-world datasets to analyze urban spatial order.
